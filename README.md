@@ -127,10 +127,10 @@ Gene ID: FBgn0263780
 - p-value: NaN
 - Not enough data for statistical comparison
 
-Gene ID: FBgn0085638
+<mark>Gene ID: FBgn0085638
 - Mean Editing Change: 0.0000
 - p-value: NaN
-- Not enough data for statistical comparison
+- Not enough data for statistical comparison</mark>
 
 Gene ID: FBgn0262509
 - Mean Editing Change: 0.0173
