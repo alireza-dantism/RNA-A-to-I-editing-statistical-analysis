@@ -24,8 +24,8 @@ The amount of editing in flies can be estimated by measuring the level of A-to-I
 - The p-value is reported to indicate whether the difference in mean editing levels between the two conditions is statistically significant.
 - A p-value of NaN indicates that there was not enough data to perform a statistical comparison, which is noted in the summary.
 - For genes that have a p-value, it is interpreted as follows:
-- If the p-value is less than 0.05, it indicates a statistically significant difference between the conditions.
-- If the p-value is greater than or equal to 0.05, it suggests that there is no statistically significant difference.
+    - If the p-value is less than 0.05, it indicates a statistically significant difference between the conditions.
+    - If the p-value is greater than or equal to 0.05, it suggests that there is no statistically significant difference.
 
 
 
