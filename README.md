@@ -21,7 +21,7 @@ Gene ID: FBgn0263780 (Strand: -)
 ```
 ![FBgn0263780](/FBgn0263780_editing_levels_strand_specific.png)
 
-
+---
 
 ```
 Gene ID: FBgn0085638 (Strand: -)
@@ -32,6 +32,7 @@ Gene ID: FBgn0085638 (Strand: -)
 ```
 ![FBgn0085638](/FBgn0085638_editing_levels_strand_specific.png)
 
+---
 
 ```
 Gene ID: FBgn0262509 (Strand: +)
@@ -42,6 +43,7 @@ Gene ID: FBgn0262509 (Strand: +)
 ```
 ![FBgn0262509](/FBgn0262509_editing_levels_strand_specific.png)
 
+---
 
 ```
 Gene ID: FBgn0264607 (Strand: -)
@@ -52,6 +54,7 @@ Gene ID: FBgn0264607 (Strand: -)
 ```
 ![FBgn0264607](/FBgn0264607_editing_levels_strand_specific.png)
 
+---
 
 ```
 Gene ID: FBgn0285944 (Strand: -)
@@ -65,7 +68,7 @@ Gene ID: FBgn0285944 (Strand: -)
 
 ## Source code
 
-```
+```python
 import pandas as pd
 import scipy
 from scipy import stats
