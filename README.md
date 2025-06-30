@@ -10,6 +10,59 @@ The amount of editing in flies can be estimated by measuring the level of A-to-I
 - Tables with individual nucleotide counts (ACGT) for a given set of edited sites defined by genomic coordinates for each sample.
 - Table of genes where editing should be estimated with genomic coordinates.
 
+## Result - Human-Readable Summary of Results (Strand-Specific)
+
+```
+Gene ID: FBgn0263780 (Strand: -)
+- Mean Editing Level (Mettl3): 0.0000 (SD: 0.0000)
+- Mean Editing Level (Mettl3_ctrl): 0.0000 (SD: 0.0000)
+- p-value: NaN
+- Not enough data for statistical comparison
+```
+![FBgn0263780](/FBgn0263780_editing_levels_strand_specific.png)
+
+
+
+```
+Gene ID: FBgn0085638 (Strand: -)
+- Mean Editing Level (Mettl3): 0.0000 (SD: 0.0000)
+- Mean Editing Level (Mettl3_ctrl): 0.0000 (SD: 0.0000)
+- p-value: NaN
+- Not enough data for statistical comparison
+```
+![FBgn0085638](/FBgn0085638_editing_levels_strand_specific.png)
+
+
+```
+Gene ID: FBgn0262509 (Strand: +)
+- Mean Editing Level (Mettl3): 0.3653 (SD: 0.2620)
+- Mean Editing Level (Mettl3_ctrl): 0.3481 (SD: 0.2525)
+- p-value: 0.0000
+- Statistically significant difference
+```
+![FBgn0262509](/FBgn0262509_editing_levels_strand_specific.png)
+
+
+```
+Gene ID: FBgn0264607 (Strand: -)
+- Mean Editing Level (Mettl3): 0.0001 (SD: 0.0010)
+- Mean Editing Level (Mettl3_ctrl): 0.0002 (SD: 0.0010)
+- p-value: 0.7412
+- No significant difference
+```
+![FBgn0264607](/FBgn0264607_editing_levels_strand_specific.png)
+
+
+```
+Gene ID: FBgn0285944 (Strand: -)
+- Mean Editing Level (Mettl3): 0.0000 (SD: 0.0004)
+- Mean Editing Level (Mettl3_ctrl): 0.0000 (SD: 0.0000)
+- p-value: 0.0833
+- No significant difference
+```
+![FBgn0285944](/FBgn0285944_editing_levels_strand_specific.png)
+
+
 ## Source code
 
 ```
@@ -146,61 +199,4 @@ for gene in results.keys():
 
 print("Strand-specific results written to change_results_strand_specific.txt and visualizations saved.")
 ```
-
-
-
-## Result - Human-Readable Summary of Results (Strand-Specific)
-## ==================================================
-
-```
-Gene ID: FBgn0263780 (Strand: -)
-- Mean Editing Level (Mettl3): 0.0000 (SD: 0.0000)
-- Mean Editing Level (Mettl3_ctrl): 0.0000 (SD: 0.0000)
-- p-value: NaN
-- Not enough data for statistical comparison
-```
-![FBgn0263780](/FBgn0263780_editing_levels_strand_specific.png)
-
-
-
-```
-Gene ID: FBgn0085638 (Strand: -)
-- Mean Editing Level (Mettl3): 0.0000 (SD: 0.0000)
-- Mean Editing Level (Mettl3_ctrl): 0.0000 (SD: 0.0000)
-- p-value: NaN
-- Not enough data for statistical comparison
-```
-![FBgn0085638](/FBgn0085638_editing_levels_strand_specific.png)
-
-
-```
-Gene ID: FBgn0262509 (Strand: +)
-- Mean Editing Level (Mettl3): 0.3653 (SD: 0.2620)
-- Mean Editing Level (Mettl3_ctrl): 0.3481 (SD: 0.2525)
-- p-value: 0.0000
-- Statistically significant difference
-```
-![FBgn0262509](/FBgn0262509_editing_levels_strand_specific.png)
-
-
-```
-Gene ID: FBgn0264607 (Strand: -)
-- Mean Editing Level (Mettl3): 0.0001 (SD: 0.0010)
-- Mean Editing Level (Mettl3_ctrl): 0.0002 (SD: 0.0010)
-- p-value: 0.7412
-- No significant difference
-```
-![FBgn0264607](/FBgn0264607_editing_levels_strand_specific.png)
-
-
-```
-Gene ID: FBgn0285944 (Strand: -)
-- Mean Editing Level (Mettl3): 0.0000 (SD: 0.0004)
-- Mean Editing Level (Mettl3_ctrl): 0.0000 (SD: 0.0000)
-- p-value: 0.0833
-- No significant difference
-```
-![FBgn0285944](/FBgn0285944_editing_levels_strand_specific.png)
-
-
 
