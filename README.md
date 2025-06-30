@@ -13,15 +13,13 @@ The amount of editing in flies can be estimated by measuring the level of A-to-I
 ## Summary of Result
 
 **1. Gene ID and Strand Information:**
-
-    * Each entry begins with the Gene ID (e.g., FBgn0263780) and its corresponding strand (either ‘+’ or ‘-’). This strand information is crucial as RNA editing can differ based on the strand of transcription.
+    - Each entry begins with the Gene ID (e.g., FBgn0263780) and its corresponding strand (either ‘+’ or ‘-’). This strand information is crucial as RNA editing can differ based on the strand of transcription.
 
 **2. Mean Editing Levels:**
-
-    * For each gene, the mean editing levels are reported for both conditions:
+    - For each gene, the mean editing levels are reported for both conditions:
         - Mettl3: The average editing level observed in the experimental condition.
         - Mettl3_ctrl: The average editing level in the control condition.
-    * The mean values are presented along with the standard deviation (SD), which quantifies the variability of the editing levels within each condition.
+    - The mean values are presented along with the standard deviation (SD), which quantifies the variability of the editing levels within each condition.
 
 **3. Statistical Analysis:**
    - The p-value is reported to indicate whether the difference in mean editing levels between the two conditions is statistically significant.
