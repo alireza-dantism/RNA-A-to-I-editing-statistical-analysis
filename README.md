@@ -149,7 +149,7 @@ print("Strand-specific results written to change_results_strand_specific.txt and
 
 
 
-## Result - change_results.txt
+## Result
 
 ```
 Human-Readable Summary of Results (Strand-Specific)
