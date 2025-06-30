@@ -184,3 +184,11 @@ Gene ID: FBgn0285944 (Strand: -)
 - p-value: 0.0833
 - No significant difference
 ```
+
+
+![FBgn0263780](/FBgn0263780_editing_levels_strand_specific.png)
+![FBgn0085638](/FBgn0085638_editing_levels_strand_specific.png)
+![FBgn0262509](/FBgn0262509_editing_levels_strand_specific.png)
+![FBgn0264607](/FBgn0264607_editing_levels_strand_specific.png)
+![FBgn0285944](/FBgn0285944_editing_levels_strand_specific.png)
+
