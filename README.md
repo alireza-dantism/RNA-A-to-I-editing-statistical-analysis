@@ -29,7 +29,7 @@ The amount of editing in flies can be estimated by measuring the level of A-to-I
 
 
 
-## Result - Human-Readable Summary of Results (Strand-Specific)
+## Human-Readable Summary of Results (Strand-Specific)
 
 ```
 Gene ID: FBgn0263780 (Strand: -)
