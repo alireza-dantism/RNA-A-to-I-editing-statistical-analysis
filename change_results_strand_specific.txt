@@ -1,0 +1,32 @@
+Human-Readable Summary of Editing Change Results (Strand-Specific)
+==================================================
+Gene ID: FBgn0263780 (Strand: -)
+- Mean Editing Level (Mettl3): 0.0000 (SD: 0.0000)
+- Mean Editing Level (Mettl3_ctrl): 0.0000 (SD: 0.0000)
+- p-value: NaN
+- Not enough data for statistical comparison
+
+Gene ID: FBgn0085638 (Strand: -)
+- Mean Editing Level (Mettl3): 0.0000 (SD: 0.0000)
+- Mean Editing Level (Mettl3_ctrl): 0.0000 (SD: 0.0000)
+- p-value: NaN
+- Not enough data for statistical comparison
+
+Gene ID: FBgn0262509 (Strand: +)
+- Mean Editing Level (Mettl3): 0.3653 (SD: 0.2620)
+- Mean Editing Level (Mettl3_ctrl): 0.3481 (SD: 0.2525)
+- p-value: 0.0000
+- Statistically significant difference
+
+Gene ID: FBgn0264607 (Strand: -)
+- Mean Editing Level (Mettl3): 0.0001 (SD: 0.0010)
+- Mean Editing Level (Mettl3_ctrl): 0.0002 (SD: 0.0010)
+- p-value: 0.7412
+- No significant difference
+
+Gene ID: FBgn0285944 (Strand: -)
+- Mean Editing Level (Mettl3): 0.0000 (SD: 0.0004)
+- Mean Editing Level (Mettl3_ctrl): 0.0000 (SD: 0.0000)
+- p-value: 0.0833
+- No significant difference
+
